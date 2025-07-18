@@ -25,7 +25,7 @@ function scrollToSection5() {
     document.getElementById('pudgesection').scrollIntoView({ behavior: 'smooth' });
 }
 
-// ✅ Make sure all image paths are correct and consistent (all lowercase folder)
+
 const ranks = [
     { title: 'Herald', image: 'img/Herald.jpg', description: '0 - 769 MMR' },
     { title: 'Guardian', image: 'img/Guardian.jpg', description: '770 - 1549 MMR' },
