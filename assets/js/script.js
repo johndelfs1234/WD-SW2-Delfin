@@ -35,8 +35,8 @@ function scrollToSection5() {
 }
 
 const ranks = [
-    { title:'Herald', image:'Images/Herald.jpg', description:'0 - 769 MMR' },
-    { title:'Guardian', image:'Images/Guardian.jpg', description:'770 - 1549 MMR' },
+    { title:'Herald', image:'', description:'0 - 769 MMR' },
+    { title:'Guardian', image:'img/Guardian.jpg', description:'770 - 1549 MMR' },
     { title:'Crusader', image:'Images/Crusader.jpg', description:'1550 - 2399 MMR' },
     { title:'Archon', image:'Images/Archon.jpg', description:'2400 - 3399 MMR' },
     { title:'Legend', image:'Images/Legend.jpg', description:'3400 - 4399 MMR' },
